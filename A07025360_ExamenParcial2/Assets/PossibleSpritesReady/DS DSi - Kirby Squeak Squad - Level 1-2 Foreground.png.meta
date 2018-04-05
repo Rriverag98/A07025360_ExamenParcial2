@@ -1,0 +1,977 @@
+fileFormatVersion: 2
+guid: d6db32530c516a74d80f4cfca59eae3b
+timeCreated: 1522873404
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: DS DSi - Kirby Squeak Squad - Level 1-2 Foreground_0
+    21300002: DS DSi - Kirby Squeak Squad - Level 1-2 Foreground_1
+    21300004: DS DSi - Kirby Squeak Squad - Level 1-2 Foreground_2
+    21300006: DS DSi - Kirby Squeak Squad - Level 1-2 Foreground_3
+    21300008: DS DSi - Kirby Squeak Squad - Level 1-2 Foreground_4
+    21300010: DS DSi - Kirby Squeak Squad - Level 1-2 Foreground_5
+    21300012: DS DSi - Kirby Squeak Squad - Level 1-2 Foreground_6
+    21300014: DS DSi - Kirby Squeak Squad - Level 1-2 Foreground_7
+    21300016: DS DSi - Kirby Squeak Squad - Level 1-2 Foreground_8
+    21300018: DS DSi - Kirby Squeak Squad - Level 1-2 Foreground_9
+    21300020: DS DSi - Kirby Squeak Squad - Level 1-2 Foreground_10
+    21300022: DS DSi - Kirby Squeak Squad - Level 1-2 Foreground_11
+    21300024: DS DSi - Kirby Squeak Squad - Level 1-2 Foreground_12
+    21300026: DS DSi - Kirby Squeak Squad - Level 1-2 Foreground_13
+    21300028: DS DSi - Kirby Squeak Squad - Level 1-2 Foreground_14
+    21300030: DS DSi - Kirby Squeak Squad - Level 1-2 Foreground_15
+    21300032: DS DSi - Kirby Squeak Squad - Level 1-2 Foreground_16
+    21300034: DS DSi - Kirby Squeak Squad - Level 1-2 Foreground_17
+    21300036: DS DSi - Kirby Squeak Squad - Level 1-2 Foreground_18
+    21300038: DS DSi - Kirby Squeak Squad - Level 1-2 Foreground_19
+    21300040: DS DSi - Kirby Squeak Squad - Level 1-2 Foreground_20
+    21300042: DS DSi - Kirby Squeak Squad - Level 1-2 Foreground_21
+    21300044: DS DSi - Kirby Squeak Squad - Level 1-2 Foreground_22
+    21300046: DS DSi - Kirby Squeak Squad - Level 1-2 Foreground_23
+    21300048: DS DSi - Kirby Squeak Squad - Level 1-2 Foreground_24
+    21300050: DS DSi - Kirby Squeak Squad - Level 1-2 Foreground_25
+    21300052: DS DSi - Kirby Squeak Squad - Level 1-2 Foreground_27
+    21300054: DS DSi - Kirby Squeak Squad - Level 1-2 Foreground_28
+    21300056: DS DSi - Kirby Squeak Squad - Level 1-2 Foreground_29
+    21300058: DS DSi - Kirby Squeak Squad - Level 1-2 Foreground_30
+    21300060: DS DSi - Kirby Squeak Squad - Level 1-2 Foreground_31
+    21300062: DS DSi - Kirby Squeak Squad - Level 1-2 Foreground_32
+    21300064: DS DSi - Kirby Squeak Squad - Level 1-2 Foreground_33
+    21300066: DS DSi - Kirby Squeak Squad - Level 1-2 Foreground_34
+    21300068: DS DSi - Kirby Squeak Squad - Level 1-2 Foreground_35
+    21300070: DS DSi - Kirby Squeak Squad - Level 1-2 Foreground_36
+    21300072: DS DSi - Kirby Squeak Squad - Level 1-2 Foreground_37
+    21300074: DS DSi - Kirby Squeak Squad - Level 1-2 Foreground_38
+    21300076: DS DSi - Kirby Squeak Squad - Level 1-2 Foreground_39
+    21300078: DS DSi - Kirby Squeak Squad - Level 1-2 Foreground_40
+    21300080: DS DSi - Kirby Squeak Squad - Level 1-2 Foreground_41
+    21300082: DS DSi - Kirby Squeak Squad - Level 1-2 Foreground_42
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DS DSi - Kirby Squeak Squad - Level 1-2 Foreground_0
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 814
+        width: 64
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -32, y: 48}
+        - {x: -32, y: -48}
+        - {x: 32, y: -48}
+        - {x: 32, y: 48}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Squeak Squad - Level 1-2 Foreground_1
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 702
+        width: 751
+        height: 208
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 7.255432, y: -28.10559}
+        - {x: -26.203064, y: -44.691162}
+        - {x: -151.73993, y: -43.44452}
+        - {x: -152.83612, y: -28.02002}
+        - {x: -375.5, y: -28.743896}
+        - {x: -375.5, y: -104}
+        - {x: 375.5, y: -104}
+        - {x: 375.5, y: -28.02002}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Squeak Squad - Level 1-2 Foreground_2
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 702
+        width: 528
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -66.04814, y: 32.648193}
+        - {x: -102.10593, y: 15.279663}
+        - {x: -187.4322, y: 14.915283}
+        - {x: -264, y: 15.0338745}
+        - {x: -264, y: -48}
+        - {x: 264, y: -48}
+        - {x: 264, y: 28.004211}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Squeak Squad - Level 1-2 Foreground_3
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 682
+        width: 207
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -100.5, y: 7.5}
+        - {x: -103.5, y: 6.5}
+        - {x: -103.5, y: -7.5}
+        - {x: 103.5, y: -7.5}
+        - {x: 103.5, y: 3.5}
+        - {x: 99.5, y: 7.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Squeak Squad - Level 1-2 Foreground_4
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 682
+        width: 128
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -63, y: 7.5}
+        - {x: -64, y: 6.5}
+        - {x: -64, y: -7.5}
+        - {x: 64, y: -7.5}
+        - {x: 64, y: 7.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Squeak Squad - Level 1-2 Foreground_5
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 682
+        width: 112
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -55, y: 7}
+        - {x: -56, y: 5}
+        - {x: -56, y: -7}
+        - {x: 56, y: -7}
+        - {x: 56, y: 7}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Squeak Squad - Level 1-2 Foreground_6
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 682
+        width: 151
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -70.5, y: 7.5}
+        - {x: -75.5, y: 6.5}
+        - {x: -75.5, y: -7.5}
+        - {x: 75.5, y: -7.5}
+        - {x: 75.5, y: 7.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Squeak Squad - Level 1-2 Foreground_7
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 666
+        width: 207
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -103.5, y: 7.5}
+        - {x: -103.5, y: -7.5}
+        - {x: 103.5, y: -7.5}
+        - {x: 103.5, y: 7.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Squeak Squad - Level 1-2 Foreground_8
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 666
+        width: 128
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -64, y: 7}
+        - {x: -64, y: -7}
+        - {x: 64, y: -7}
+        - {x: 64, y: 7}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Squeak Squad - Level 1-2 Foreground_9
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 666
+        width: 112
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -56, y: 7.5}
+        - {x: -56, y: -7.5}
+        - {x: 56, y: -7.5}
+        - {x: 56, y: 7.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Squeak Squad - Level 1-2 Foreground_10
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 666
+        width: 151
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -75.5, y: 7}
+        - {x: -75.5, y: -7}
+        - {x: 75.5, y: -7}
+        - {x: 75.5, y: 6}
+        - {x: 74.5, y: 7}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Squeak Squad - Level 1-2 Foreground_11
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 650
+        width: 207
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -102.5, y: 7.5}
+        - {x: -103.5, y: 5.5}
+        - {x: -103.5, y: -7.5}
+        - {x: 103.5, y: -7.5}
+        - {x: 103.5, y: 7.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Squeak Squad - Level 1-2 Foreground_12
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 650
+        width: 128
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -64, y: 7.5}
+        - {x: -64, y: -7.5}
+        - {x: 64, y: -7.5}
+        - {x: 64, y: 7.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Squeak Squad - Level 1-2 Foreground_13
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 650
+        width: 112
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -56, y: 7}
+        - {x: -56, y: -7}
+        - {x: 56, y: -7}
+        - {x: 56, y: 7}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Squeak Squad - Level 1-2 Foreground_14
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 650
+        width: 151
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -75.5, y: 7.5}
+        - {x: -75.5, y: -7.5}
+        - {x: 75.5, y: -7.5}
+        - {x: 75.5, y: 7.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Squeak Squad - Level 1-2 Foreground_15
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 634
+        width: 207
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -103.5, y: 7.5}
+        - {x: -103.5, y: -7.5}
+        - {x: 103.5, y: -7.5}
+        - {x: 103.5, y: 7.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Squeak Squad - Level 1-2 Foreground_16
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 634
+        width: 128
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -64, y: 7}
+        - {x: -64, y: -7}
+        - {x: 64, y: -7}
+        - {x: 64, y: 7}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Squeak Squad - Level 1-2 Foreground_17
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 634
+        width: 112
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -56, y: 7.5}
+        - {x: -56, y: -7.5}
+        - {x: 56, y: -7.5}
+        - {x: 56, y: 7.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Squeak Squad - Level 1-2 Foreground_18
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 634
+        width: 151
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -75.5, y: 7}
+        - {x: -75.5, y: -7}
+        - {x: 75.5, y: -7}
+        - {x: 75.5, y: 7}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Squeak Squad - Level 1-2 Foreground_19
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 471
+        width: 32
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -8, y: 30}
+        - {x: -16, y: 30}
+        - {x: -16, y: -30}
+        - {x: 8, y: -30}
+        - {x: 16, y: -22}
+        - {x: 16, y: 13}
+        - {x: 14, y: 22}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Squeak Squad - Level 1-2 Foreground_20
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 463
+        width: 56
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 8, y: 36}
+        - {x: -8, y: 35}
+        - {x: -28, y: 19}
+        - {x: -28, y: -7}
+        - {x: -4, y: -36}
+        - {x: 28, y: -36}
+        - {x: 28, y: 36}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Squeak Squad - Level 1-2 Foreground_21
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 297
+        width: 272
+        height: 324
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 103.980774, y: 157.01074}
+        - {x: 105.394226, y: 63.51178}
+        - {x: 58.006287, y: 63.69171}
+        - {x: 58.118652, y: 55.644043}
+        - {x: 104.69519, y: 56.186462}
+        - {x: 105.87341, y: 15.137085}
+        - {x: -52.9321, y: 13.847412}
+        - {x: -53.820892, y: -0.047180176}
+        - {x: -38.086243, y: 0.816864}
+        - {x: -38.200867, y: -16.10147}
+        - {x: 73.263794, y: -14.838074}
+        - {x: 74.42236, y: -31.595612}
+        - {x: 88.97351, y: -31.930237}
+        - {x: 88.71094, y: -48.542908}
+        - {x: 105.11102, y: -47.447296}
+        - {x: 105.54175, y: -115.15973}
+        - {x: -73.4989, y: -114.29889}
+        - {x: -73.2901, y: -51.86902}
+        - {x: -77.864075, y: -49.175964}
+        - {x: -122.09216, y: -51.04062}
+        - {x: -122.42151, y: 48.790283}
+        - {x: -107.22058, y: 48.97403}
+        - {x: -107.08798, y: 63.67578}
+        - {x: -91.101715, y: 64.21265}
+        - {x: -90.78717, y: 80.60455}
+        - {x: 20.894653, y: 80.18439}
+        - {x: 20.762573, y: 95.55286}
+        - {x: 38.289062, y: 96.52576}
+        - {x: 38.829956, y: 107.14789}
+        - {x: 34.425323, y: 111.34155}
+        - {x: -100.264496, y: 110.89392}
+        - {x: -136, y: 110.13104}
+        - {x: -136, y: -162}
+        - {x: 136, y: -162}
+        - {x: 136, y: 157.01068}
+      - - {x: -39.54123, y: -72.51965}
+        - {x: -39.54123, y: -63.82788}
+        - {x: 40.265106, y: -63.82788}
+        - {x: 40.265106, y: -72.51965}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Squeak Squad - Level 1-2 Foreground_22
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 355
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -100, y: 100}
+        - {x: -100, y: -100}
+        - {x: 100, y: -100}
+        - {x: 100, y: 100}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Squeak Squad - Level 1-2 Foreground_23
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 463
+        width: 128
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -64, y: 4}
+        - {x: -64, y: -4}
+        - {x: 64, y: -4}
+        - {x: 64, y: 4}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Squeak Squad - Level 1-2 Foreground_24
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 327
+        width: 272
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -136, y: 31.691284}
+        - {x: -136, y: -48}
+        - {x: 136, y: -48}
+        - {x: 136, y: 30.060364}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Squeak Squad - Level 1-2 Foreground_25
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 73
+        width: 1056
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 450.66876, y: 54.109238}
+        - {x: 401.09192, y: 6.235214}
+        - {x: 174.52332, y: 5.1436768}
+        - {x: 126.14111, y: 53.455215}
+        - {x: -28.227692, y: 53.569122}
+        - {x: -27.082916, y: 38.551666}
+        - {x: -93.793396, y: 37.58812}
+        - {x: -93.48578, y: -11.8745575}
+        - {x: -417.86774, y: -9.106644}
+        - {x: -528, y: -12.262421}
+        - {x: -528, y: -72}
+        - {x: 528, y: -72}
+        - {x: 528, y: -23.09771}
+        - {x: 507.93835, y: -24.739212}
+        - {x: 508.91602, y: 53.446198}
+      - - {x: 206, y: 72}
+        - {x: 206, y: 66}
+        - {x: 208, y: 62}
+        - {x: 366, y: 62}
+        - {x: 370, y: 66}
+        - {x: 370, y: 72}
+      - - {x: -349.90228, y: 31.38092}
+        - {x: -349.90228, y: 38.647568}
+        - {x: -290.039, y: 38.647568}
+        - {x: -290.039, y: 31.38092}
+      - - {x: -445.40668, y: 61.13954}
+        - {x: -445.40668, y: 70.8284}
+        - {x: -353.70862, y: 70.8284}
+        - {x: -353.70862, y: 61.13954}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Squeak Squad - Level 1-2 Foreground_27
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 209
+        width: 160
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -80, y: 6}
+        - {x: -80, y: -6}
+        - {x: 80, y: -6}
+        - {x: 80, y: 6}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Squeak Squad - Level 1-2 Foreground_28
+      rect:
+        serializedVersion: 2
+        x: 1157
+        y: 73
+        width: 608
+        height: 208
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 160.75928, y: -11.638565}
+        - {x: 130.89795, y: -41.091248}
+        - {x: -161.29614, y: -40.58139}
+        - {x: -224.48193, y: 20.68303}
+        - {x: -287.45874, y: 20.2126}
+        - {x: -287.4508, y: -57.757515}
+        - {x: -304, y: -58.5027}
+        - {x: -304, y: -104}
+        - {x: 304, y: -104}
+        - {x: 304, y: -10.881821}
+      - - {x: 208.3512, y: 33.218536}
+        - {x: 208.3512, y: 38.301804}
+        - {x: 303.40833, y: 38.301804}
+        - {x: 303.40833, y: 33.218536}
+      - - {x: -79.65979, y: 41.24791}
+        - {x: -79.65979, y: 55.027527}
+        - {x: 30.57727, y: 55.027527}
+        - {x: 30.57727, y: 41.24791}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Squeak Squad - Level 1-2 Foreground_29
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 73
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -14, y: 26}
+        - {x: -16, y: 24}
+        - {x: -16, y: -26}
+        - {x: 16, y: -26}
+        - {x: 16, y: 25}
+        - {x: 15, y: 26}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Squeak Squad - Level 1-2 Foreground_30
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 35
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -9, y: 16.5}
+        - {x: -9, y: -16.5}
+        - {x: 9, y: -16.5}
+        - {x: 9, y: 16.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Squeak Squad - Level 1-2 Foreground_31
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 35
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -9, y: 16.5}
+        - {x: -9, y: -16.5}
+        - {x: 9, y: -16.5}
+        - {x: 9, y: 16.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Squeak Squad - Level 1-2 Foreground_32
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 35
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -9, y: 16.5}
+        - {x: -9, y: -16.5}
+        - {x: 9, y: -16.5}
+        - {x: 9, y: 16.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Squeak Squad - Level 1-2 Foreground_33
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 35
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -9, y: 16.5}
+        - {x: -9, y: -16.5}
+        - {x: 9, y: -16.5}
+        - {x: 9, y: 16.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Squeak Squad - Level 1-2 Foreground_34
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 0
+        width: 30
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Squeak Squad - Level 1-2 Foreground_35
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 5
+        width: 50
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -25, y: 32.5}
+        - {x: -25, y: -32.5}
+        - {x: 25, y: -32.5}
+        - {x: 25, y: 32.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Squeak Squad - Level 1-2 Foreground_36
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 5
+        width: 50
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -25, y: 32.5}
+        - {x: -25, y: -32.5}
+        - {x: 25, y: -32.5}
+        - {x: 25, y: 32.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Squeak Squad - Level 1-2 Foreground_37
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 5
+        width: 50
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -25, y: 32.5}
+        - {x: -25, y: -32.5}
+        - {x: 25, y: -32.5}
+        - {x: 25, y: 32.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Squeak Squad - Level 1-2 Foreground_38
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 5
+        width: 50
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -25, y: 32.5}
+        - {x: -25, y: -32.5}
+        - {x: 25, y: -32.5}
+        - {x: 25, y: 32.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Squeak Squad - Level 1-2 Foreground_39
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 20
+        width: 18
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -9, y: 24.5}
+        - {x: -9, y: -24.5}
+        - {x: 9, y: -24.5}
+        - {x: 9, y: 24.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Squeak Squad - Level 1-2 Foreground_40
+      rect:
+        serializedVersion: 2
+        x: 1651
+        y: 20
+        width: 18
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -9, y: 24.5}
+        - {x: -9, y: -24.5}
+        - {x: 9, y: -24.5}
+        - {x: 9, y: 24.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Squeak Squad - Level 1-2 Foreground_41
+      rect:
+        serializedVersion: 2
+        x: 1670
+        y: 20
+        width: 18
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -9, y: 24.5}
+        - {x: -9, y: -24.5}
+        - {x: 9, y: -24.5}
+        - {x: 9, y: 24.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Kirby Squeak Squad - Level 1-2 Foreground_42
+      rect:
+        serializedVersion: 2
+        x: 1689
+        y: 20
+        width: 18
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -9, y: 24.5}
+        - {x: -9, y: -24.5}
+        - {x: 9, y: -24.5}
+        - {x: 9, y: 24.5}
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1457 @@
+fileFormatVersion: 2
+guid: c0b6ad4a806d23546805c03886cdbbd2
+timeCreated: 1522374640
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: NES_mckids_kids_0
+    21300002: NES_mckids_kids_1
+    21300004: NES_mckids_kids_2
+    21300006: NES_mckids_kids_3
+    21300008: NES_mckids_kids_4
+    21300010: NES_mckids_kids_5
+    21300012: NES_mckids_kids_6
+    21300014: NES_mckids_kids_7
+    21300016: NES_mckids_kids_8
+    21300018: NES_mckids_kids_9
+    21300020: NES_mckids_kids_10
+    21300022: NES_mckids_kids_11
+    21300024: NES_mckids_kids_12
+    21300026: NES_mckids_kids_13
+    21300028: NES_mckids_kids_14
+    21300030: NES_mckids_kids_15
+    21300032: NES_mckids_kids_16
+    21300034: NES_mckids_kids_17
+    21300036: NES_mckids_kids_18
+    21300038: NES_mckids_kids_19
+    21300040: NES_mckids_kids_20
+    21300042: NES_mckids_kids_21
+    21300044: NES_mckids_kids_22
+    21300046: NES_mckids_kids_23
+    21300048: NES_mckids_kids_24
+    21300050: NES_mckids_kids_25
+    21300052: NES_mckids_kids_26
+    21300054: NES_mckids_kids_27
+    21300056: NES_mckids_kids_28
+    21300058: NES_mckids_kids_29
+    21300060: NES_mckids_kids_30
+    21300062: NES_mckids_kids_31
+    21300064: NES_mckids_kids_32
+    21300066: NES_mckids_kids_33
+    21300068: NES_mckids_kids_34
+    21300070: NES_mckids_kids_35
+    21300072: NES_mckids_kids_36
+    21300074: NES_mckids_kids_37
+    21300076: NES_mckids_kids_38
+    21300078: NES_mckids_kids_39
+    21300080: NES_mckids_kids_40
+    21300082: NES_mckids_kids_41
+    21300084: NES_mckids_kids_42
+    21300086: NES_mckids_kids_43
+    21300088: NES_mckids_kids_44
+    21300090: NES_mckids_kids_45
+    21300092: NES_mckids_kids_46
+    21300094: NES_mckids_kids_47
+    21300096: NES_mckids_kids_48
+    21300098: NES_mckids_kids_49
+    21300100: NES_mckids_kids_50
+    21300102: NES_mckids_kids_51
+    21300104: NES_mckids_kids_52
+    21300106: NES_mckids_kids_53
+    21300108: NES_mckids_kids_54
+    21300110: NES_mckids_kids_55
+    21300112: NES_mckids_kids_56
+    21300114: NES_mckids_kids_57
+    21300116: NES_mckids_kids_58
+    21300118: NES_mckids_kids_59
+    21300120: NES_mckids_kids_60
+    21300122: NES_mckids_kids_61
+    21300124: NES_mckids_kids_62
+    21300126: NES_mckids_kids_63
+    21300128: NES_mckids_kids_64
+    21300130: NES_mckids_kids_65
+    21300132: NES_mckids_kids_66
+    21300134: NES_mckids_kids_67
+    21300136: NES_mckids_kids_68
+    21300138: NES_mckids_kids_69
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 1
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NES_mckids_kids_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 238
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -5.5, y: 8}
+        - {x: -5.5, y: -8}
+        - {x: 5.5, y: -8}
+        - {x: 5.5, y: 8}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES_mckids_kids_1
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 238
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -5.5, y: 8}
+        - {x: -5.5, y: -7}
+        - {x: -4.5, y: -8}
+        - {x: 5.5, y: -8}
+        - {x: 5.5, y: 8}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES_mckids_kids_2
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 238
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -4.5, y: 8}
+        - {x: -4.5, y: -8}
+        - {x: 4.5, y: -8}
+        - {x: 4.5, y: 8}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES_mckids_kids_3
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 238
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -5.5, y: 8}
+        - {x: -5.5, y: -8}
+        - {x: 5.5, y: -8}
+        - {x: 5.5, y: 8}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES_mckids_kids_4
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 238
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -5.5, y: 8}
+        - {x: -5.5, y: -8}
+        - {x: 5.5, y: -8}
+        - {x: 5.5, y: 8}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES_mckids_kids_5
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 238
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -5.5, y: 8}
+        - {x: -5.5, y: -7}
+        - {x: -4.5, y: -8}
+        - {x: 5.5, y: -8}
+        - {x: 5.5, y: 8}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES_mckids_kids_6
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 205
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -7, y: 15.5}
+        - {x: -7, y: -15.5}
+        - {x: 7, y: -15.5}
+        - {x: 7, y: 15.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES_mckids_kids_7
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 205
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -7, y: 15.5}
+        - {x: -7, y: -15.5}
+        - {x: 7, y: -15.5}
+        - {x: 7, y: 15.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES_mckids_kids_8
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 205
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -8, y: 15.5}
+        - {x: -8, y: -14.5}
+        - {x: -7, y: -15.5}
+        - {x: 8, y: -15.5}
+        - {x: 8, y: 15.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES_mckids_kids_9
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 205
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -8, y: 15.5}
+        - {x: -8, y: -15.5}
+        - {x: 8, y: -15.5}
+        - {x: 8, y: 15.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES_mckids_kids_10
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 205
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -6, y: 13}
+        - {x: -7, y: 12}
+        - {x: -7, y: -13}
+        - {x: 7, y: -13}
+        - {x: 7, y: 13}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES_mckids_kids_11
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 205
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -7.5, y: 10}
+        - {x: -7.5, y: -10}
+        - {x: 7.5, y: -10}
+        - {x: 7.5, y: 10}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES_mckids_kids_12
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 205
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -7.5, y: 15.5}
+        - {x: -7.5, y: -15.5}
+        - {x: 7.5, y: -15.5}
+        - {x: 7.5, y: 15.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES_mckids_kids_13
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 205
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -8, y: 15.5}
+        - {x: -8, y: -15.5}
+        - {x: 8, y: -15.5}
+        - {x: 8, y: 15.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES_mckids_kids_14
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 205
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -7, y: 15.5}
+        - {x: -7, y: -15.5}
+        - {x: 7, y: -15.5}
+        - {x: 7, y: 15.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES_mckids_kids_15
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 205
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -7, y: 15.5}
+        - {x: -7, y: -15.5}
+        - {x: 7, y: -15.5}
+        - {x: 7, y: 15.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES_mckids_kids_16
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 205
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -7.5, y: 15.5}
+        - {x: -7.5, y: -15.5}
+        - {x: 7.5, y: -15.5}
+        - {x: 7.5, y: 15.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES_mckids_kids_17
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 205
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -8, y: 15.5}
+        - {x: -8, y: -15.5}
+        - {x: 8, y: -15.5}
+        - {x: 8, y: 15.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES_mckids_kids_18
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 205
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -6, y: 15.5}
+        - {x: -7, y: 14.5}
+        - {x: -7, y: -15.5}
+        - {x: 7, y: -15.5}
+        - {x: 7, y: 15.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES_mckids_kids_19
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 205
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -7, y: 15.5}
+        - {x: -7, y: -15.5}
+        - {x: 7, y: -15.5}
+        - {x: 7, y: 15.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES_mckids_kids_20
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 163
+        width: 16
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -8, y: 20}
+        - {x: -8, y: -20}
+        - {x: 8, y: -20}
+        - {x: 8, y: 20}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES_mckids_kids_21
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 163
+        width: 16
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -8, y: 20}
+        - {x: -8, y: -20}
+        - {x: 8, y: -20}
+        - {x: 8, y: 20}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES_mckids_kids_22
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 163
+        width: 17
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -8.5, y: 20}
+        - {x: -8.5, y: -20}
+        - {x: 8.5, y: -20}
+        - {x: 8.5, y: 20}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES_mckids_kids_23
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 163
+        width: 16
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -8, y: 17.5}
+        - {x: -8, y: -17.5}
+        - {x: 7, y: -17.5}
+        - {x: 8, y: -14.5}
+        - {x: 8, y: 17.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES_mckids_kids_24
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 163
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -8, y: 14.5}
+        - {x: -8, y: -13.5}
+        - {x: -7, y: -14.5}
+        - {x: 8, y: -14.5}
+        - {x: 8, y: 14.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES_mckids_kids_25
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 163
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -8, y: 15.5}
+        - {x: -8, y: -15.5}
+        - {x: 8, y: -15.5}
+        - {x: 8, y: 15.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES_mckids_kids_26
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 163
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -6, y: 15.5}
+        - {x: -8, y: 13.5}
+        - {x: -8, y: -14.5}
+        - {x: -7, y: -15.5}
+        - {x: 8, y: -15.5}
+        - {x: 8, y: 14.5}
+        - {x: 7, y: 15.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES_mckids_kids_27
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 130
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -7, y: 15.5}
+        - {x: -7, y: -15.5}
+        - {x: 7, y: -15.5}
+        - {x: 7, y: 15.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES_mckids_kids_28
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 130
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -13.5, y: 14}
+        - {x: -13.5, y: -3}
+        - {x: -8.5, y: -14}
+        - {x: 13.5, y: -14}
+        - {x: 13.5, y: 2}
+        - {x: 1.5, y: 14}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES_mckids_kids_29
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 130
+        width: 31
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -15.5, y: 7}
+        - {x: -15.5, y: -7}
+        - {x: 15.5, y: -7}
+        - {x: 15.5, y: 7}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES_mckids_kids_30
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 130
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 12, y: 13.5}
+        - {x: -3, y: 13.5}
+        - {x: -14, y: 6.5}
+        - {x: -14, y: -13.5}
+        - {x: 1, y: -13.5}
+        - {x: 11, y: -5.5}
+        - {x: 14, y: 2.5}
+        - {x: 14, y: 12.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES_mckids_kids_31
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 130
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -7, y: 15.5}
+        - {x: -7, y: -15.5}
+        - {x: 7, y: -15.5}
+        - {x: 7, y: 15.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES_mckids_kids_32
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 130
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -13.5, y: -4}
+        - {x: -1.5, y: -14}
+        - {x: 13.5, y: -14}
+        - {x: 13.5, y: 4}
+        - {x: 8.5, y: 14}
+        - {x: -13.5, y: 14}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES_mckids_kids_33
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 130
+        width: 31
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -15.5, y: 7}
+        - {x: -15.5, y: -7}
+        - {x: 15.5, y: -7}
+        - {x: 15.5, y: 7}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES_mckids_kids_34
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 130
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -3, y: 13.5}
+        - {x: -14, y: -0.5}
+        - {x: -14, y: -12.5}
+        - {x: -12, y: -13.5}
+        - {x: 1, y: -13.5}
+        - {x: 2, y: -12.5}
+        - {x: 14, y: -1.5}
+        - {x: 14, y: 13.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES_mckids_kids_35
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 112
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -5.5, y: 8}
+        - {x: -5.5, y: -8}
+        - {x: 5.5, y: -8}
+        - {x: 5.5, y: 8}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES_mckids_kids_36
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 112
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -5.5, y: 8}
+        - {x: -5.5, y: -7}
+        - {x: -4.5, y: -8}
+        - {x: 5.5, y: -8}
+        - {x: 5.5, y: 8}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES_mckids_kids_37
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 112
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -4.5, y: 8}
+        - {x: -4.5, y: -8}
+        - {x: 4.5, y: -8}
+        - {x: 4.5, y: 8}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES_mckids_kids_38
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 112
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -5.5, y: 8}
+        - {x: -5.5, y: -8}
+        - {x: 5.5, y: -8}
+        - {x: 5.5, y: 8}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES_mckids_kids_39
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 112
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -5.5, y: 8}
+        - {x: -5.5, y: -8}
+        - {x: 5.5, y: -8}
+        - {x: 5.5, y: 8}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES_mckids_kids_40
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 112
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -5.5, y: 8}
+        - {x: -5.5, y: -7}
+        - {x: -4.5, y: -8}
+        - {x: 5.5, y: -8}
+        - {x: 5.5, y: 8}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES_mckids_kids_41
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 78
+        width: 12
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -6, y: 16}
+        - {x: -6, y: -16}
+        - {x: 6, y: -16}
+        - {x: 6, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES_mckids_kids_42
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 78
+        width: 12
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -6, y: 16}
+        - {x: -6, y: -16}
+        - {x: 6, y: -16}
+        - {x: 6, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES_mckids_kids_43
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 78
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -8, y: 16}
+        - {x: -8, y: -16}
+        - {x: 8, y: -16}
+        - {x: 8, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES_mckids_kids_44
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 78
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -8, y: 16}
+        - {x: -8, y: -16}
+        - {x: 8, y: -16}
+        - {x: 8, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES_mckids_kids_45
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 78
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -6, y: 13.5}
+        - {x: -7, y: 12.5}
+        - {x: -7, y: -13.5}
+        - {x: 7, y: -13.5}
+        - {x: 7, y: 13.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES_mckids_kids_46
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 78
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -7, y: 10.5}
+        - {x: -7, y: -10.5}
+        - {x: 7, y: -10.5}
+        - {x: 7, y: 10.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES_mckids_kids_47
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 78
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -7, y: 16}
+        - {x: -7, y: -16}
+        - {x: 7, y: -16}
+        - {x: 7, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES_mckids_kids_48
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 78
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -8, y: 16}
+        - {x: -8, y: -16}
+        - {x: 8, y: -16}
+        - {x: 8, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES_mckids_kids_49
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 78
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -7, y: 16}
+        - {x: -7, y: -16}
+        - {x: 7, y: -16}
+        - {x: 7, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES_mckids_kids_50
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 78
+        width: 12
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -6, y: 16}
+        - {x: -6, y: -16}
+        - {x: 6, y: -16}
+        - {x: 6, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES_mckids_kids_51
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 78
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -7, y: 16}
+        - {x: -7, y: -16}
+        - {x: 7, y: -16}
+        - {x: 7, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES_mckids_kids_52
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 78
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -8, y: 16}
+        - {x: -8, y: -16}
+        - {x: 8, y: -16}
+        - {x: 8, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES_mckids_kids_53
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 77
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -7, y: 16}
+        - {x: -7, y: -16}
+        - {x: 7, y: -16}
+        - {x: 7, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES_mckids_kids_54
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 77
+        width: 12
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -6, y: 16}
+        - {x: -6, y: -16}
+        - {x: 6, y: -16}
+        - {x: 6, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES_mckids_kids_55
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 36
+        width: 16
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -8, y: 20}
+        - {x: -8, y: -20}
+        - {x: 8, y: -20}
+        - {x: 8, y: 20}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES_mckids_kids_56
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 36
+        width: 16
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -8, y: 20}
+        - {x: -8, y: -20}
+        - {x: 8, y: -20}
+        - {x: 8, y: 20}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES_mckids_kids_57
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 36
+        width: 17
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -8.5, y: 20}
+        - {x: -8.5, y: -20}
+        - {x: 8.5, y: -20}
+        - {x: 8.5, y: 20}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES_mckids_kids_58
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 36
+        width: 16
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -8, y: 17.5}
+        - {x: -8, y: -17.5}
+        - {x: 7, y: -17.5}
+        - {x: 8, y: -14.5}
+        - {x: 8, y: 17.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES_mckids_kids_59
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 36
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -8, y: 14.5}
+        - {x: -8, y: -13.5}
+        - {x: -7, y: -14.5}
+        - {x: 8, y: -14.5}
+        - {x: 8, y: 14.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES_mckids_kids_60
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 36
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -8, y: 16}
+        - {x: -8, y: -16}
+        - {x: 8, y: -16}
+        - {x: 8, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES_mckids_kids_61
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 36
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -8, y: 16}
+        - {x: -8, y: -16}
+        - {x: 8, y: -16}
+        - {x: 8, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES_mckids_kids_62
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2
+        width: 12
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -6, y: 16}
+        - {x: -6, y: -16}
+        - {x: 6, y: -16}
+        - {x: 6, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES_mckids_kids_63
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 2
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 1, y: 14}
+        - {x: -12, y: 14}
+        - {x: -14, y: 13}
+        - {x: -14, y: -2}
+        - {x: 0, y: -14}
+        - {x: 13, y: -14}
+        - {x: 14, y: -12}
+        - {x: 14, y: 3}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES_mckids_kids_64
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 2
+        width: 32
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: 7}
+        - {x: -16, y: -7}
+        - {x: 16, y: -7}
+        - {x: 16, y: 7}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES_mckids_kids_65
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 2
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -4, y: 14}
+        - {x: -14, y: 1}
+        - {x: -14, y: -14}
+        - {x: 1, y: -14}
+        - {x: 14, y: 1}
+        - {x: 14, y: 12}
+        - {x: 13, y: 14}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES_mckids_kids_66
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 2
+        width: 12
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -6, y: 16}
+        - {x: -6, y: -16}
+        - {x: 6, y: -16}
+        - {x: 6, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES_mckids_kids_67
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 2
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -14, y: 14}
+        - {x: -14, y: -4}
+        - {x: -1, y: -14}
+        - {x: 14, y: -14}
+        - {x: 14, y: 1}
+        - {x: 0, y: 14}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES_mckids_kids_68
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 2
+        width: 32
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: 7}
+        - {x: -16, y: -7}
+        - {x: 16, y: -7}
+        - {x: 16, y: 7}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES_mckids_kids_69
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 2
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 13, y: 14}
+        - {x: -2, y: 14}
+        - {x: -14, y: 0}
+        - {x: -14, y: -13}
+        - {x: -12, y: -14}
+        - {x: 3, y: -14}
+        - {x: 14, y: -1}
+        - {x: 14, y: 12}
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

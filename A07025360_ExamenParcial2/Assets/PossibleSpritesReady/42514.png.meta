@@ -1,0 +1,1037 @@
+fileFormatVersion: 2
+guid: 90f7f7716a011d04e99b9a1bd30b3a92
+timeCreated: 1522846173
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: 42514_0
+    21300002: 42514_1
+    21300004: 42514_2
+    21300006: 42514_3
+    21300008: 42514_4
+    21300010: 42514_5
+    21300012: 42514_6
+    21300014: 42514_7
+    21300016: 42514_8
+    21300018: 42514_9
+    21300020: 42514_10
+    21300022: 42514_11
+    21300024: 42514_12
+    21300026: 42514_13
+    21300028: 42514_14
+    21300030: 42514_15
+    21300032: 42514_16
+    21300034: 42514_17
+    21300036: 42514_18
+    21300038: 42514_19
+    21300040: 42514_20
+    21300042: 42514_21
+    21300044: 42514_22
+    21300046: 42514_23
+    21300048: 42514_24
+    21300050: 42514_25
+    21300052: 42514_26
+    21300054: 42514_27
+    21300056: 42514_28
+    21300058: 42514_29
+    21300060: 42514_30
+    21300062: 42514_31
+    21300064: 42514_32
+    21300066: 42514_33
+    21300068: 42514_34
+    21300070: 42514_35
+    21300072: 42514_36
+    21300074: 42514_37
+    21300076: 42514_38
+    21300078: 42514_39
+    21300080: 42514_40
+    21300082: 42514_41
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 42514_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 745
+        width: 1588
+        height: 208
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 486.5553, y: 22.479126}
+        - {x: 456.65295, y: 23.110962}
+        - {x: 455.5996, y: 53.99121}
+        - {x: 450.50403, y: 59.706177}
+        - {x: 417.82202, y: 58.37915}
+        - {x: 411.833, y: 52.461975}
+        - {x: 414.5829, y: -23.284851}
+        - {x: 168.68817, y: -23.670715}
+        - {x: 75.700745, y: 20.83783}
+        - {x: 15.188721, y: 20.940857}
+        - {x: 12.153564, y: -23.846375}
+        - {x: -76.41522, y: -23.72699}
+        - {x: -81.91333, y: -27.324219}
+        - {x: -81.727356, y: -40.12097}
+        - {x: -229.63617, y: -41.185364}
+        - {x: -794, y: -43.518066}
+        - {x: -794, y: -104}
+        - {x: 794, y: -104}
+        - {x: 794, y: -20.056885}
+        - {x: 488.14514, y: -26.665771}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 42514_1
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 723
+        width: 112
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -54, y: 7}
+        - {x: -56, y: 5}
+        - {x: -56, y: -7}
+        - {x: 56, y: -7}
+        - {x: 56, y: 7}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 42514_2
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 728
+        width: 56
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -23, y: 7}
+        - {x: -28, y: 2}
+        - {x: -28, y: -7}
+        - {x: 28, y: -7}
+        - {x: 28, y: 7}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 42514_3
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 725
+        width: 111
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -55.5, y: 7.5}
+        - {x: -55.5, y: -7.5}
+        - {x: 55.5, y: -7.5}
+        - {x: 55.5, y: 7.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 42514_4
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 707
+        width: 112
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -56, y: 7.5}
+        - {x: -56, y: -7.5}
+        - {x: 56, y: -7.5}
+        - {x: 56, y: 6.5}
+        - {x: 47, y: 7.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 42514_5
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 712
+        width: 56
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -28, y: 7.5}
+        - {x: -28, y: -7.5}
+        - {x: 28, y: -7.5}
+        - {x: 28, y: 7.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 42514_6
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 709
+        width: 111
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -55.5, y: 7}
+        - {x: -55.5, y: -7}
+        - {x: 55.5, y: -7}
+        - {x: 55.5, y: 7}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 42514_7
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 691
+        width: 112
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -56, y: 7}
+        - {x: -56, y: -7}
+        - {x: 56, y: -7}
+        - {x: 56, y: 7}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 42514_8
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 696
+        width: 56
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -28, y: 7}
+        - {x: -28, y: -7}
+        - {x: 28, y: -7}
+        - {x: 28, y: 7}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 42514_9
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 693
+        width: 111
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -53.5, y: 7.5}
+        - {x: -55.5, y: 5.5}
+        - {x: -55.5, y: -7.5}
+        - {x: 55.5, y: -7.5}
+        - {x: 55.5, y: 7.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 42514_10
+      rect:
+        serializedVersion: 2
+        x: 1607
+        y: 398
+        width: 272
+        height: 304
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 21, y: 92}
+        - {x: 26, y: 84}
+        - {x: -60, y: -38}
+        - {x: -61, y: -50}
+        - {x: -60, y: -15}
+        - {x: -73, y: 33}
+        - {x: -119, y: 51}
+        - {x: -135, y: 51}
+        - {x: -136, y: 49}
+        - {x: -136, y: -152}
+        - {x: 136, y: -152}
+        - {x: 136, y: 152}
+        - {x: 45, y: 152}
+        - {x: 0, y: 144}
+      - - {x: -42, y: 10}
+        - {x: -42, y: -2}
+        - {x: 10, y: -2}
+        - {x: 10, y: 10}
+      - - {x: -42, y: 58}
+        - {x: -42, y: 46}
+        - {x: 10, y: 46}
+        - {x: 10, y: 58}
+      - - {x: -120, y: 90}
+        - {x: -122, y: 88}
+        - {x: -122, y: 80}
+        - {x: -120, y: 78}
+        - {x: -56, y: 78}
+        - {x: -54, y: 80}
+        - {x: -54, y: 88}
+        - {x: -56, y: 90}
+      - - {x: -56, y: 138}
+        - {x: -58, y: 136}
+        - {x: -58, y: 128}
+        - {x: -56, y: 126}
+        - {x: -8, y: 126}
+        - {x: -6, y: 128}
+        - {x: -6, y: 136}
+        - {x: -8, y: 138}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 42514_11
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 675
+        width: 112
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -56, y: 7.5}
+        - {x: -56, y: -7.5}
+        - {x: 56, y: -7.5}
+        - {x: 56, y: 7.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 42514_12
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 680
+        width: 56
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -26, y: 7.5}
+        - {x: -28, y: 3.5}
+        - {x: -28, y: -7.5}
+        - {x: 28, y: -7.5}
+        - {x: 28, y: 7.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 42514_13
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 677
+        width: 111
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -55.5, y: 7}
+        - {x: -55.5, y: -7}
+        - {x: 55.5, y: -7}
+        - {x: 55.5, y: 6}
+        - {x: 54.5, y: 7}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 42514_14
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 398
+        width: 1456
+        height: 211
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 728, y: -13.275726}
+        - {x: 632.2755, y: -13.875458}
+        - {x: 598.197, y: -43.96631}
+        - {x: 408.52075, y: -44.55609}
+        - {x: 312.65088, y: -43.503235}
+        - {x: 261.9436, y: -42.44162}
+        - {x: 230.29785, y: -10.00531}
+        - {x: 167.36066, y: 22.01239}
+        - {x: 143.2298, y: 22.814636}
+        - {x: 143.0238, y: -25.061737}
+        - {x: 52.00409, y: -28.146698}
+        - {x: 51.40802, y: 21.342163}
+        - {x: 25.893005, y: 23.543823}
+        - {x: -36.628418, y: -7.680725}
+        - {x: -72.3999, y: -43.428284}
+        - {x: -266.33728, y: -44.983765}
+        - {x: -330.65942, y: -9.42215}
+        - {x: -468.69748, y: -10.532806}
+        - {x: -535.19275, y: -42.950653}
+        - {x: -728, y: -44.463776}
+        - {x: -728, y: -105.5}
+        - {x: -685.75323, y: -105.5}
+        - {x: 169.58258, y: -105.5}
+        - {x: 728, y: -105.5}
+      - - {x: 464.9768, y: 56.519775}
+        - {x: 449.06787, y: 56.533264}
+        - {x: 442.43567, y: 51.34491}
+        - {x: 441.6964, y: -3.0281067}
+        - {x: 444.8053, y: -8.354828}
+        - {x: 466.93408, y: -8.354828}
+        - {x: 470.67322, y: -4.7244873}
+        - {x: 470.3036, y: 53.73761}
+      - - {x: -421.11252, y: 101.407104}
+        - {x: -421.4469, y: 64.375244}
+        - {x: -422.3575, y: 19.092041}
+        - {x: -411.9292, y: 7.378723}
+        - {x: -387.80267, y: 7.6822815}
+        - {x: -377.33896, y: 20.324707}
+        - {x: -377.33893, y: 62.196472}
+        - {x: -378.0354, y: 101.10358}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 42514_15
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 510
+        width: 48
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -24, y: 48}
+        - {x: -24, y: -41}
+        - {x: -16, y: -48}
+        - {x: 16, y: -48}
+        - {x: 24, y: -41}
+        - {x: 24, y: 48}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 42514_16
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 475
+        width: 120
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -47, y: -48.5}
+        - {x: -49, y: -50.5}
+        - {x: -60, y: -50.5}
+        - {x: -60, y: -61.5}
+        - {x: -34, y: -61.5}
+        - {x: -35, y: -58.5}
+        - {x: -40, y: -50.5}
+        - {x: -42, y: -48.5}
+      - - {x: 20, y: 61.5}
+        - {x: -5, y: 61.5}
+        - {x: -12, y: 55.5}
+        - {x: -38, y: 48.5}
+        - {x: -60, y: 30.5}
+        - {x: -60, y: 9.5}
+        - {x: -12, y: -61.5}
+        - {x: 15, y: -61.5}
+        - {x: 60, y: -3.5}
+        - {x: 60, y: 27.5}
+        - {x: 56, y: 43.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 42514_17
+      rect:
+        serializedVersion: 2
+        x: 1173
+        y: 494
+        width: 32
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: 33.5}
+        - {x: -16, y: -33.5}
+        - {x: 16, y: -33.5}
+        - {x: 16, y: 33.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 42514_18
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 375
+        width: 192
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -32, y: 7.5}
+        - {x: -38, y: 5.5}
+        - {x: -43, y: 7.5}
+        - {x: -92, y: 7.5}
+        - {x: -96, y: 6.5}
+        - {x: -96, y: -7.5}
+        - {x: 96, y: -7.5}
+        - {x: 96, y: 7.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 42514_19
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 377
+        width: 192
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -96, y: 7}
+        - {x: -96, y: -7}
+        - {x: 96, y: -7}
+        - {x: 96, y: 7}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 42514_20
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 379
+        width: 96
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -44, y: 7.5}
+        - {x: -48, y: 3.5}
+        - {x: -48, y: -7.5}
+        - {x: 48, y: -7.5}
+        - {x: 48, y: 7.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 42514_21
+      rect:
+        serializedVersion: 2
+        x: 1366
+        y: 377
+        width: 95
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 16.5, y: 7.5}
+        - {x: 15.5, y: 6.5}
+        - {x: 9.5, y: 7.5}
+        - {x: -47.5, y: 7.5}
+        - {x: -47.5, y: -7.5}
+        - {x: 47.5, y: -7.5}
+        - {x: 47.5, y: 5.5}
+        - {x: 46.5, y: 7.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 42514_22
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 359
+        width: 192
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -96, y: 7.5}
+        - {x: -96, y: -7.5}
+        - {x: 96, y: -7.5}
+        - {x: 96, y: 7.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 42514_23
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 361
+        width: 192
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -96, y: 7.5}
+        - {x: -96, y: -7.5}
+        - {x: 96, y: -7.5}
+        - {x: 96, y: 7.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 42514_24
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 363
+        width: 96
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -48, y: 7.5}
+        - {x: -48, y: -7.5}
+        - {x: 48, y: -7.5}
+        - {x: 48, y: 7.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 42514_25
+      rect:
+        serializedVersion: 2
+        x: 1366
+        y: 361
+        width: 95
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -44.5, y: 7}
+        - {x: -47.5, y: 6}
+        - {x: -47.5, y: -7}
+        - {x: 47.5, y: -7}
+        - {x: 47.5, y: 7}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 42514_26
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 343
+        width: 192
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -96, y: 7.5}
+        - {x: -96, y: -7.5}
+        - {x: 96, y: -7.5}
+        - {x: 96, y: 5.5}
+        - {x: 91, y: 7.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 42514_27
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 345
+        width: 192
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -94, y: 7}
+        - {x: -96, y: 6}
+        - {x: -96, y: -7}
+        - {x: 96, y: -7}
+        - {x: 96, y: 7}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 42514_28
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 347
+        width: 96
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -48, y: 7.5}
+        - {x: -48, y: -7.5}
+        - {x: 48, y: -7.5}
+        - {x: 48, y: 7.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 42514_29
+      rect:
+        serializedVersion: 2
+        x: 1366
+        y: 345
+        width: 95
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -47.5, y: 7.5}
+        - {x: -47.5, y: -7.5}
+        - {x: 47.5, y: -7.5}
+        - {x: 47.5, y: 7.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 42514_30
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 327
+        width: 192
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -95, y: 7.5}
+        - {x: -96, y: 6.5}
+        - {x: -96, y: -7.5}
+        - {x: 96, y: -7.5}
+        - {x: 96, y: 7.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 42514_31
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 329
+        width: 192
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -96, y: 7.5}
+        - {x: -96, y: -7.5}
+        - {x: 96, y: -7.5}
+        - {x: 96, y: 7.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 42514_32
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 331
+        width: 96
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -48, y: 7.5}
+        - {x: -48, y: -7.5}
+        - {x: 48, y: -7.5}
+        - {x: 48, y: 7.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 42514_33
+      rect:
+        serializedVersion: 2
+        x: 1366
+        y: 329
+        width: 95
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -47.5, y: 7}
+        - {x: -47.5, y: -7}
+        - {x: 47.5, y: -7}
+        - {x: 47.5, y: 7}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 42514_34
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 58
+        width: 1552
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 520.01636, y: 58.172302}
+        - {x: 472.40247, y: 58.49597}
+        - {x: 472.3025, y: 48.286133}
+        - {x: 519.25867, y: 47.883987}
+        - {x: 519.7534, y: -22.895195}
+        - {x: 248.37451, y: -21.942078}
+        - {x: 179.37408, y: 8.722092}
+        - {x: 152.25732, y: 9.773972}
+        - {x: 87.26483, y: 41.633713}
+        - {x: 42.482483, y: 40.4095}
+        - {x: 41.818542, y: -18.604294}
+        - {x: -169.19269, y: -18.044067}
+        - {x: -170.63971, y: 41.140182}
+        - {x: -217.2536, y: 40.774567}
+        - {x: -280.71707, y: 10.101242}
+        - {x: -551.86316, y: 10.413895}
+        - {x: -552.0884, y: -4.7583466}
+        - {x: -776, y: -4.05777}
+        - {x: -776, y: -70}
+        - {x: 776, y: -70}
+        - {x: 776, y: 58.813217}
+      - - {x: -626.564, y: 71.5}
+        - {x: -647.64856, y: 71.5}
+        - {x: -647.5972, y: 64.48743}
+        - {x: -646, y: 62}
+        - {x: -553.22925, y: 62}
+        - {x: -552.3093, y: 63.99443}
+        - {x: -552.4143, y: 71.5}
+      - - {x: 182, y: 70}
+        - {x: 182, y: 66}
+        - {x: 186, y: 62}
+        - {x: 298, y: 62}
+        - {x: 298, y: 70}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 42514_35
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 192
+        width: 96
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -48, y: 5}
+        - {x: -48, y: -5}
+        - {x: 48, y: -5}
+        - {x: 48, y: 5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 42514_36
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 192
+        width: 112
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -56, y: 5}
+        - {x: -56, y: -5}
+        - {x: 56, y: -5}
+        - {x: 56, y: 5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 42514_37
+      rect:
+        serializedVersion: 2
+        x: 1628
+        y: 97
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -100, y: 100}
+        - {x: -100, y: -100}
+        - {x: 100, y: -100}
+        - {x: 100, y: 100}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 42514_38
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 35
+        width: 208
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -104, y: 3.5}
+        - {x: -104, y: -3.5}
+        - {x: 104, y: -3.5}
+        - {x: 104, y: 3.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 42514_39
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 26
+        width: 208
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -104, y: 4}
+        - {x: -104, y: -4}
+        - {x: 104, y: -4}
+        - {x: 104, y: 4}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 42514_40
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 17
+        width: 208
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -104, y: 4}
+        - {x: -104, y: -4}
+        - {x: 104, y: -4}
+        - {x: 104, y: 4}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 42514_41
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 8
+        width: 208
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -102, y: 4}
+        - {x: -104, y: 3}
+        - {x: -104, y: -4}
+        - {x: 104, y: -4}
+        - {x: 104, y: 4}
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

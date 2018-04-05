@@ -1,0 +1,1947 @@
+fileFormatVersion: 2
+guid: bc2a7bb82d5f5fe4c9070df23bf9ff21
+timeCreated: 1522255552
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Custom Edited - Mega Man Customs - Modern Megaman_0
+    21300002: Custom Edited - Mega Man Customs - Modern Megaman_1
+    21300004: Custom Edited - Mega Man Customs - Modern Megaman_2
+    21300006: Custom Edited - Mega Man Customs - Modern Megaman_3
+    21300008: Custom Edited - Mega Man Customs - Modern Megaman_4
+    21300010: Custom Edited - Mega Man Customs - Modern Megaman_5
+    21300012: Custom Edited - Mega Man Customs - Modern Megaman_6
+    21300014: Custom Edited - Mega Man Customs - Modern Megaman_7
+    21300016: Custom Edited - Mega Man Customs - Modern Megaman_8
+    21300018: Custom Edited - Mega Man Customs - Modern Megaman_9
+    21300020: Custom Edited - Mega Man Customs - Modern Megaman_10
+    21300022: Custom Edited - Mega Man Customs - Modern Megaman_11
+    21300024: Custom Edited - Mega Man Customs - Modern Megaman_12
+    21300026: Custom Edited - Mega Man Customs - Modern Megaman_13
+    21300028: Custom Edited - Mega Man Customs - Modern Megaman_14
+    21300030: Custom Edited - Mega Man Customs - Modern Megaman_15
+    21300032: Custom Edited - Mega Man Customs - Modern Megaman_16
+    21300034: Custom Edited - Mega Man Customs - Modern Megaman_17
+    21300036: Custom Edited - Mega Man Customs - Modern Megaman_18
+    21300038: Custom Edited - Mega Man Customs - Modern Megaman_19
+    21300040: Custom Edited - Mega Man Customs - Modern Megaman_20
+    21300042: Custom Edited - Mega Man Customs - Modern Megaman_21
+    21300044: Custom Edited - Mega Man Customs - Modern Megaman_22
+    21300046: Custom Edited - Mega Man Customs - Modern Megaman_23
+    21300048: Custom Edited - Mega Man Customs - Modern Megaman_24
+    21300050: Custom Edited - Mega Man Customs - Modern Megaman_25
+    21300052: Custom Edited - Mega Man Customs - Modern Megaman_26
+    21300054: Custom Edited - Mega Man Customs - Modern Megaman_27
+    21300056: Custom Edited - Mega Man Customs - Modern Megaman_28
+    21300058: Custom Edited - Mega Man Customs - Modern Megaman_29
+    21300060: Custom Edited - Mega Man Customs - Modern Megaman_30
+    21300062: Custom Edited - Mega Man Customs - Modern Megaman_31
+    21300064: Custom Edited - Mega Man Customs - Modern Megaman_32
+    21300066: Custom Edited - Mega Man Customs - Modern Megaman_33
+    21300068: Custom Edited - Mega Man Customs - Modern Megaman_34
+    21300070: Custom Edited - Mega Man Customs - Modern Megaman_35
+    21300072: Custom Edited - Mega Man Customs - Modern Megaman_36
+    21300074: Custom Edited - Mega Man Customs - Modern Megaman_37
+    21300076: Custom Edited - Mega Man Customs - Modern Megaman_38
+    21300078: Custom Edited - Mega Man Customs - Modern Megaman_39
+    21300080: Custom Edited - Mega Man Customs - Modern Megaman_40
+    21300082: Custom Edited - Mega Man Customs - Modern Megaman_41
+    21300084: Custom Edited - Mega Man Customs - Modern Megaman_42
+    21300086: Custom Edited - Mega Man Customs - Modern Megaman_43
+    21300088: Custom Edited - Mega Man Customs - Modern Megaman_44
+    21300090: Custom Edited - Mega Man Customs - Modern Megaman_45
+    21300092: Custom Edited - Mega Man Customs - Modern Megaman_46
+    21300094: Custom Edited - Mega Man Customs - Modern Megaman_47
+    21300096: Custom Edited - Mega Man Customs - Modern Megaman_48
+    21300098: Custom Edited - Mega Man Customs - Modern Megaman_49
+    21300100: Custom Edited - Mega Man Customs - Modern Megaman_50
+    21300102: Custom Edited - Mega Man Customs - Modern Megaman_51
+    21300104: Custom Edited - Mega Man Customs - Modern Megaman_52
+    21300106: Custom Edited - Mega Man Customs - Modern Megaman_53
+    21300108: Custom Edited - Mega Man Customs - Modern Megaman_54
+    21300110: Custom Edited - Mega Man Customs - Modern Megaman_55
+    21300112: Custom Edited - Mega Man Customs - Modern Megaman_56
+    21300114: Custom Edited - Mega Man Customs - Modern Megaman_57
+    21300116: Custom Edited - Mega Man Customs - Modern Megaman_58
+    21300118: Custom Edited - Mega Man Customs - Modern Megaman_59
+    21300120: Custom Edited - Mega Man Customs - Modern Megaman_60
+    21300122: Custom Edited - Mega Man Customs - Modern Megaman_61
+    21300124: Custom Edited - Mega Man Customs - Modern Megaman_62
+    21300126: Custom Edited - Mega Man Customs - Modern Megaman_63
+    21300128: Custom Edited - Mega Man Customs - Modern Megaman_64
+    21300130: Custom Edited - Mega Man Customs - Modern Megaman_65
+    21300132: Custom Edited - Mega Man Customs - Modern Megaman_66
+    21300134: Custom Edited - Mega Man Customs - Modern Megaman_67
+    21300136: Custom Edited - Mega Man Customs - Modern Megaman_68
+    21300138: Custom Edited - Mega Man Customs - Modern Megaman_69
+    21300140: Custom Edited - Mega Man Customs - Modern Megaman_70
+    21300142: Custom Edited - Mega Man Customs - Modern Megaman_71
+    21300144: Custom Edited - Mega Man Customs - Modern Megaman_72
+    21300146: Custom Edited - Mega Man Customs - Modern Megaman_73
+    21300148: Custom Edited - Mega Man Customs - Modern Megaman_74
+    21300150: Custom Edited - Mega Man Customs - Modern Megaman_75
+    21300152: Custom Edited - Mega Man Customs - Modern Megaman_76
+    21300154: Custom Edited - Mega Man Customs - Modern Megaman_77
+    21300156: Custom Edited - Mega Man Customs - Modern Megaman_78
+    21300158: Custom Edited - Mega Man Customs - Modern Megaman_79
+    21300160: Custom Edited - Mega Man Customs - Modern Megaman_80
+    21300162: Custom Edited - Mega Man Customs - Modern Megaman_81
+    21300164: Custom Edited - Mega Man Customs - Modern Megaman_82
+    21300166: Custom Edited - Mega Man Customs - Modern Megaman_83
+    21300168: Custom Edited - Mega Man Customs - Modern Megaman_84
+    21300170: Custom Edited - Mega Man Customs - Modern Megaman_85
+    21300172: Custom Edited - Mega Man Customs - Modern Megaman_86
+    21300174: Custom Edited - Mega Man Customs - Modern Megaman_87
+    21300176: Custom Edited - Mega Man Customs - Modern Megaman_88
+    21300178: Custom Edited - Mega Man Customs - Modern Megaman_89
+    21300180: Custom Edited - Mega Man Customs - Modern Megaman_90
+    21300182: Custom Edited - Mega Man Customs - Modern Megaman_91
+    21300184: Custom Edited - Mega Man Customs - Modern Megaman_92
+    21300186: Custom Edited - Mega Man Customs - Modern Megaman_93
+    21300188: Custom Edited - Mega Man Customs - Modern Megaman_94
+    21300190: Custom Edited - Mega Man Customs - Modern Megaman_95
+    21300192: Custom Edited - Mega Man Customs - Modern Megaman_96
+    21300194: Custom Edited - Mega Man Customs - Modern Megaman_97
+    21300196: Custom Edited - Mega Man Customs - Modern Megaman_98
+    21300198: Custom Edited - Mega Man Customs - Modern Megaman_99
+    21300200: Custom Edited - Mega Man Customs - Modern Megaman_100
+    21300202: Custom Edited - Mega Man Customs - Modern Megaman_101
+    21300204: Custom Edited - Mega Man Customs - Modern Megaman_102
+    21300206: Custom Edited - Mega Man Customs - Modern Megaman_103
+    21300208: Custom Edited - Mega Man Customs - Modern Megaman_104
+    21300210: Custom Edited - Mega Man Customs - Modern Megaman_105
+    21300212: Custom Edited - Mega Man Customs - Modern Megaman_106
+    21300214: Custom Edited - Mega Man Customs - Modern Megaman_107
+    21300216: Custom Edited - Mega Man Customs - Modern Megaman_108
+    21300218: Custom Edited - Mega Man Customs - Modern Megaman_109
+    21300220: Custom Edited - Mega Man Customs - Modern Megaman_110
+    21300222: Custom Edited - Mega Man Customs - Modern Megaman_111
+    21300224: Custom Edited - Mega Man Customs - Modern Megaman_112
+    21300226: Custom Edited - Mega Man Customs - Modern Megaman_113
+    21300228: Custom Edited - Mega Man Customs - Modern Megaman_114
+    21300230: Custom Edited - Mega Man Customs - Modern Megaman_115
+    21300232: Custom Edited - Mega Man Customs - Modern Megaman_116
+    21300234: Custom Edited - Mega Man Customs - Modern Megaman_117
+    21300236: Custom Edited - Mega Man Customs - Modern Megaman_118
+    21300238: Custom Edited - Mega Man Customs - Modern Megaman_119
+    21300240: Custom Edited - Mega Man Customs - Modern Megaman_120
+    21300242: Custom Edited - Mega Man Customs - Modern Megaman_121
+    21300244: Custom Edited - Mega Man Customs - Modern Megaman_122
+    21300246: Custom Edited - Mega Man Customs - Modern Megaman_123
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Modern Megaman_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 101
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Modern Megaman_1
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 101
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Modern Megaman_2
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 101
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Modern Megaman_3
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 101
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Modern Megaman_4
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 101
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Modern Megaman_5
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 90
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Modern Megaman_6
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 90
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Modern Megaman_7
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 88
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Modern Megaman_8
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 90
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Modern Megaman_9
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 90
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Modern Megaman_10
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 89
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Modern Megaman_11
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 90
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Modern Megaman_12
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 90
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Modern Megaman_13
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 90
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Modern Megaman_14
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 92
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Modern Megaman_15
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 92
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Modern Megaman_16
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 92
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Modern Megaman_17
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 90
+        width: 30
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Modern Megaman_18
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 91
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Modern Megaman_19
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 79
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Modern Megaman_20
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 90
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Modern Megaman_21
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 90
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Modern Megaman_22
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 90
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Modern Megaman_23
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 93
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Modern Megaman_24
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 90
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Modern Megaman_25
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 79
+        width: 20
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Modern Megaman_26
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 78
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Modern Megaman_27
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 78
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Modern Megaman_28
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 79
+        width: 17
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Modern Megaman_29
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 80
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Modern Megaman_30
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 80
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Modern Megaman_31
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 78
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Modern Megaman_32
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 80
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Modern Megaman_33
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 78
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Modern Megaman_34
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 79
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Modern Megaman_35
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 80
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Modern Megaman_36
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 80
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Modern Megaman_37
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 79
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Modern Megaman_38
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 79
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Modern Megaman_39
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 80
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Modern Megaman_40
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 80
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Modern Megaman_41
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 80
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Modern Megaman_42
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 80
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Modern Megaman_43
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 80
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Modern Megaman_44
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 80
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Modern Megaman_45
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 80
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Modern Megaman_46
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 80
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Modern Megaman_47
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 80
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Modern Megaman_48
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 80
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Modern Megaman_49
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 80
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Modern Megaman_50
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 80
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Modern Megaman_51
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 80
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Modern Megaman_52
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 80
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Modern Megaman_53
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 80
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Modern Megaman_54
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 81
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Modern Megaman_55
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 79
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Modern Megaman_56
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 79
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Modern Megaman_57
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 79
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Modern Megaman_58
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 79
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Modern Megaman_59
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 79
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Modern Megaman_60
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 79
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Modern Megaman_61
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 79
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Modern Megaman_62
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 79
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Modern Megaman_63
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 79
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Modern Megaman_64
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 79
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Modern Megaman_65
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 79
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Modern Megaman_66
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 78
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Modern Megaman_67
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 78
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Modern Megaman_68
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 78
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Modern Megaman_69
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 78
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Modern Megaman_70
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 81
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Modern Megaman_71
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 79
+        width: 21
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Modern Megaman_72
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 79
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Modern Megaman_73
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 59
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Modern Megaman_74
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 59
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Modern Megaman_75
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 59
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Modern Megaman_76
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 42
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Modern Megaman_77
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 42
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Modern Megaman_78
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 42
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Modern Megaman_79
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 42
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Modern Megaman_80
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 42
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Modern Megaman_81
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 42
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Modern Megaman_82
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 42
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Modern Megaman_83
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 42
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Modern Megaman_84
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 42
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Modern Megaman_85
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 44
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Modern Megaman_86
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 44
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Modern Megaman_87
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 44
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Modern Megaman_88
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 42
+        width: 30
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Modern Megaman_89
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 43
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Modern Megaman_90
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 42
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Modern Megaman_91
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 42
+        width: 47
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Modern Megaman_92
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 42
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Modern Megaman_93
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 42
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Modern Megaman_94
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 45
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Modern Megaman_95
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 42
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Modern Megaman_96
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 42
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Modern Megaman_97
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 47
+        width: 33
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Modern Megaman_98
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 48
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Modern Megaman_99
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 11
+        width: 41
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Modern Megaman_100
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 11
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Modern Megaman_101
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 11
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Modern Megaman_102
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 11
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Modern Megaman_103
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 11
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Modern Megaman_104
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 11
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Modern Megaman_105
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 11
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Modern Megaman_106
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 11
+        width: 55
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Modern Megaman_107
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 32
+        width: 13
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Modern Megaman_108
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 12
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Modern Megaman_109
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 11
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Modern Megaman_110
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 20
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Modern Megaman_111
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 20
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Modern Megaman_112
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 20
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Modern Megaman_113
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 20
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Modern Megaman_114
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 20
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Modern Megaman_115
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 20
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Modern Megaman_116
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 22
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Modern Megaman_117
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 20
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Modern Megaman_118
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 22
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Modern Megaman_119
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 22
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Modern Megaman_120
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 22
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Modern Megaman_121
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 22
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Modern Megaman_122
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 20
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Custom Edited - Mega Man Customs - Modern Megaman_123
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 20
+        width: 53
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
